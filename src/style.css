@@ -1,0 +1,25 @@
+/* Llamamos desde el html mediante clases previamente nombradas, mediante:
+                                .nombreDeLaClase                         */
+
+.NavegadorMenu__Lista{
+    background-color: #111011;
+    background-size: contain;
+    padding: 10px 0px 10px 0px;
+    margin: 0px 0px 0px 0px;
+    list-style-type: none;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Opciones{
+    display: inline;
+    text-align: center;
+    margin: 0 50px 0 50px;
+}
+.Opciones__Enlace{
+   padding: 10px 7px 10px 7px;
+   color: #ffffff;
+   text-decoration: none;
+}
+.Opciones__Enlace:hover{
+    background-color: #56275f;
+}
