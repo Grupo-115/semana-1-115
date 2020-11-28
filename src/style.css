@@ -1,6 +1,8 @@
 /* Llamamos desde el html mediante clases previamente nombradas, mediante:
                                 .nombreDeLaClase                         */
-
+body{
+    width: 1920px;
+}
 .NavegadorMenu__Lista{
     background-color: #111011;
     background-size: contain;
