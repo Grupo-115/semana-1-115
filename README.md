@@ -9,9 +9,19 @@ repositorio para el reto/sprint 1
   * Se ajustaron las margenes de las etiquetas del menu
 
 ## Servicios
-
+  * Se creó un cuadro para el título, se centró, y se le dio color de fondo.
+  * Se dividió en tres partes la sección, dejando cada una en un cuadro propio, 
+  * Cada parte se dividió en título, imagen, y descripción, adicionando un link para ampliar la información.
+  * Se dio separación entre los cuadros.
+  
 ## Noticias
-
+  * Dividir la sección en 4 partes
+  * Cambiar el color del fondo
+  * Alinear el contenido de cada una de las 4 partes
+  * Agregar líneas para dividir cada parte
+  * Cambiar tipo de letra
+  * Cambiar la margen de cada parte.
+  
 ## Equipo
   * Se solicitaron las fotos y descripciones de los integrantes
   * Se dispusiron las divisiones de cada integrante de manera equitativa con respecto a los 1920px que se establecieron para el tamaño del sitio
@@ -22,6 +32,12 @@ repositorio para el reto/sprint 1
 
 ## Footer
   * Crear dos divisiones
-  * colocar color de fondo
-  * cambiar tipo de letra 
-  * información de los integrantes, dirección del proyecto.
+  * Colocar color de fondo
+  * Cambiar tipo de letra 
+  * Información de los integrantes, dirección del proyecto.
+  
+## Integrantes
+  > Cristian Ramirez
+  > Wilder Guerrero
+  > Samy Santana
+  > Juan Carlos Gomez
