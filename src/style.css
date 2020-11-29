@@ -1,8 +1,55 @@
 /* Llamamos desde el html mediante clases previamente nombradas, mediante:
                                 .nombreDeLaClase                         */
+
 body{
-    width: 1920px;
+    width: 1920;
 }
+.noticias{
+    background-color: beige;
+}
+
+.titulo{
+    text-align: center;
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+
+    
+}
+.imagen{
+    align-content: center;
+}
+
+.noticias1_2{
+    display: flex;
+    margin: 2%;
+}
+
+.noticias3_4{
+    display: flex;
+    margin: 2%;
+}
+
+.enlace{
+    float: right;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.titulo_noticias{
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.texto{
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.contenido{
+    align-items: center;
+    margin-right: 2%;
+    margin-left: 2%;
+    margin-block-end: 2%;
+    font-family: Arial, Helvetica, sans-serif;
+
 .NavegadorMenu__Lista{
     background-color: #111011;
     background-size: contain;
