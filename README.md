@@ -37,7 +37,7 @@ repositorio para el reto/sprint 1
   * Información de los integrantes, dirección del proyecto.
   
 ## Integrantes
-  > Cristian Ramirez
-  > Wilder Guerrero
-  > Samy Santana
-  > Juan Carlos Gomez
+> Cristian Ramirez
+> Wilder Guerrero
+> Samy Santana
+> Juan Carlos Gomez
